@@ -23,7 +23,7 @@ OBS: A segunda página (não obrigatória do projeto) ainda está sendo desenvol
 * HTML
 * CSS
 * Javascript
-* 
+
 ## :dart: Status do projeto
 
 -> Concluído.
